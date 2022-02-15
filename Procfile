@@ -1,0 +1,1 @@
+worker: python quera_bot.py
